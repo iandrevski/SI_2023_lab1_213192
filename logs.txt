@@ -1,0 +1,11 @@
+commit 93821c84d5372c913b5da2eae207c6c32a4ad1c7 (HEAD -> master, origin/master)
+Author: Ivan Andrevski <iandrevski1@gmail.com>
+Date:   Sat Apr 8 23:21:49 2023 +0200
+
+    Add java class
+
+commit d3937060409b9717c4cb7afa3c70f21b8cf7f0a1
+Author: Ivan Andrevski <iandrevski1@gmail.com>
+Date:   Sat Apr 8 23:19:21 2023 +0200
+
+    Initial commit

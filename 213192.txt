@@ -1,0 +1,6 @@
+5- git init
+6- git add . & git commit -m "Initial commit"
+7- git add . & git commit -m "Add java class"
+8- git push origin master
+27- git log && git add . & git commit -m "Final commit"
+28- git push --all origin
